@@ -12,7 +12,7 @@ This project focuses on Login, SignUp and CRUD functionalities of a Customer mod
 - **npm** or **Yarn** (for managing JavaScript dependencies)
 - **MySQL**
 
-**How to run the application:**
+# **How to run the application:**
   
 ## 1. Clone the Repository
 
