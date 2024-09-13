@@ -24,7 +24,7 @@ and change the path to the project using 'cd [folder-name]' command
 Or simply download the project zip file and extract it
 
 ## 2. Set Up the Laravel Backend
-### i.Install PHP Dependencies
+### i. Install PHP Dependencies
 Navigate to the Laravel project directory and install the PHP dependencies using below command:
 ```composer install```
 
@@ -46,11 +46,11 @@ Generate a new application key using below command:
 php artisan key:generate
 Note: You can skip this step. But it's not recommended to continue without App key
 
-## v. Run Database Migrations
+### v. Run Database Migrations
 Set up MySQL database schema by running the migrations using below command. This will create the necessary tables in MySQL:
 ```php artisan migrate```
 
-## vi. Start the Laravel Server
+### vi. Start the Laravel Server
 Serve the Laravel application using below command:
 ```php artisan serve```
 
